@@ -1,0 +1,15 @@
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\bin\Debug\net9.0\ExAsciiArt.exe
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\bin\Debug\net9.0\ExAsciiArt.deps.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\bin\Debug\net9.0\ExAsciiArt.runtimeconfig.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\bin\Debug\net9.0\ExAsciiArt.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\bin\Debug\net9.0\ExAsciiArt.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.AssemblyInfoInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.AssemblyInfo.cs
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.sourcelink.json
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\refint\ExAsciiArt.dll
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.pdb
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ExAsciiArt.genruntimeconfig.cache
+C:\Users\thiag\Github\ListasLp1\Lista1\ExAsciiArt\obj\Debug\net9.0\ref\ExAsciiArt.dll
