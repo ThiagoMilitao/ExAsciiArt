@@ -1,2 +1,8 @@
 # ExAsciiArt
-Exiba a arte abaixo.  ```  ||  ||  \\()// //(__)\\ ||    || ```
+Exiba a arte abaixo.  
+```  
+ ||  ||
+ \\()//
+//(__)\\
+||    ||
+```
